@@ -1,84 +1,64 @@
-# 👋 Hi, I'm Mohit Kumar
+# Hi, I'm Mohit Kumar 👋
 
 ### 💻 B.Tech CSE Student | Java & DSA Enthusiast | Full-Stack Developer
 
-I'm a **B.Tech Computer Science student** passionate about software development, problem solving, and building practical projects.
-
-I enjoy learning new technologies, solving **DSA problems**, and turning ideas into working applications. Currently, I'm focusing on strengthening my **Java, Data Structures & Algorithms, JavaScript, backend development, and AI integration** skills.
+B.Tech Computer Science student passionate about **software development, problem solving, and building practical applications**. I enjoy working with Java, DSA, JavaScript, backend technologies, and AI.
 
 ## 🚀 About Me
 
-* 🎓 B.Tech Computer Science Engineering student
-* 💻 Interested in **Software Development & AI**
-* 🧠 Practicing **Data Structures & Algorithms**
-* ☕ Working with **Java**
-* 🌐 Learning **Full-Stack Web Development**
-* 🤖 Building projects using **AI APIs and Gemini**
-* 🔨 Love building projects and learning through practice
-* 📈 Continuously improving my problem-solving skills
+- 🎓 B.Tech CSE Student
+- 💻 Software Development & Full-Stack Development
+- 🧠 Data Structures & Algorithms
+- ☕ Java & OOP
+- 🌐 Web Development
+- 🤖 AI & Gemini API Integration
+- 🔨 Building projects and learning through practice
 
 ## 🛠️ Tech Stack
 
-**Languages**
-
+**Languages:**  
 `Java` `C` `JavaScript` `Python`
 
-**Web Development**
-
+**Web Development:**  
 `HTML` `CSS` `JavaScript` `Node.js` `Express.js`
 
-**Database**
-
+**Database:**  
 `MongoDB` `SQL`
 
-**Tools & Platforms**
-
-`Git` `GitHub` `VS Code`
-
-**AI**
-
+**AI:**  
 `Google Gemini API` `AI Integration`
 
-## 📚 Currently Learning
-
-* Data Structures & Algorithms
-* Java & Object-Oriented Programming
-* Backend Development
-* MongoDB
-* REST APIs
-* AI Application Development
-* Software Engineering
+**Tools:**  
+`Git` `GitHub` `VS Code`
 
 ## 🚀 Featured Projects
 
-### 🤖 Free AI Chatbot
-
-An AI chatbot built using **HTML, CSS, JavaScript, Node.js, Express.js, and Google Gemini API**.
-
-### 🍱 SharePlate
-
-An AI-based food-sharing concept designed to help connect surplus food with people and organizations that need it.
+### 📚 CampusNotes
+Academic notes platform for students to **browse and access subject-wise notes and study resources**.
 
 ### 👷 Working Near You
+Local service platform connecting users with **nearby workers for jobs and services**.
 
-A platform concept connecting employers with nearby workers for local jobs and services.
+### 🌾 AgriFarmAssistant
+Agriculture-focused platform providing **farmers with useful crop-related information and digital assistance**.
 
-## 🎯 My Goal
-
-To become a strong **software developer** by continuously improving my coding, problem-solving, development, and system-building skills.
-
-> **Learn → Build → Practice → Improve → Repeat 🔥**
+### 🤖 Free AI Chatbot
+Web-based AI chatbot built for **conversational interaction with voice recognition and text-to-speech features**.
 
 ## 📊 Coding Journey
 
-I regularly practice programming problems on platforms such as **LeetCode and GeeksforGeeks** to strengthen my DSA and problem-solving abilities.
+I regularly practice **Data Structures & Algorithms** on LeetCode and GeeksforGeeks to improve my problem-solving skills.
+
+## 🎯 Goal
+
+To become a strong **software developer** by continuously improving my coding, development, and problem-solving skills.
+
+> **Learn → Build → Practice → Improve → Repeat 🔥**
 
 ## 📫 Let's Connect
 
-I'm always interested in learning, collaborating on projects, and discussing technology.
+I'm always interested in **learning, collaborating, and building projects**.
 
 **GitHub:** MohitKumar7295
 
----
-
-⭐ *Thanks for visiting my profile!*
+⭐ Thanks for visiting my profile!
