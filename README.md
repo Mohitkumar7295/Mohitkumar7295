@@ -20,7 +20,7 @@ B.Tech Computer Science student passionate about **software development, problem
 `Java` `C` `JavaScript` `Python`
 
 **Web Development:**  
-`HTML` `CSS` `JavaScript` `Node.js` `Express.js`
+`HTML` `CSS` `JavaScript` `Spring Boot` 
 
 **Database:**  
 `MongoDB` `SQL`
